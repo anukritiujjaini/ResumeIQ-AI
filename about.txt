@@ -1,0 +1,17 @@
+app.py - brain of the project. all controlling done from here
+
+eFjvHMea4YVdJpMG
+
+setup:
+venv
+pip install flask(Web app) 
+sqlalchemy(db handling) 
+pymysql(connect tidb) 
+python-docx(to read resume doc file) 
+pyPDF2(to read pdf) 
+openai(integrate)
+
+step-1 setup
+step-2 database connection
+
+mysql+pymysql://2qjT3spWq2onr3A.root:eFjvHMea4YVdJpMG@gateway01.ap-southeast-1.prod.alicloud.tidbcloud.com:4000/test?ssl_mode=VERIFY_IDENTITY&ssl_ca=C:/Users/ASUS/Downloads/isrgrootx1.pem
