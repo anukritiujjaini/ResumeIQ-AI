@@ -8,7 +8,7 @@ import ai
 
 app = Flask(__name__,static_folder="static")    # isse ek Flask application object create hota hai, jisse hum apne web application ke liye use karte hain.
 
-app.secret_key = 'secret123'
+
 
 base.metadata.create_all(bind=engine)
   
